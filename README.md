@@ -14,3 +14,5 @@ C语言课程设计
 ![房间信息结构示意图](https://github.com/NickRegistered/-/blob/master/pictures/%E6%88%BF%E5%B1%8B%E4%BF%A1%E6%81%AF%E5%8D%81%E5%AD%97%E9%93%BE%E8%A1%A8.png)
 
 客人信息结点包含身份证号、姓名、入住客房编号、入住时间、退房时间、应缴费用、已缴费用、联系方式等信息。
+
+.dat文件为存储以上数据的文件，room.h和main.c是项目源文件
